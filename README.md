@@ -19,5 +19,5 @@ Input -> Sampler -> Quantizer -> Encoder -> Source Encoder -> Channel -> Source 
 - **Decoding:** Consistent with encoding scheme
 - **Source Decoding:** Huffman Source decoding
 
-  ## Note
-  The code is proprietary and not intended for copying or redistribution.
+## Note
+The code is proprietary and not intended for copying or redistribution.
